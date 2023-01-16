@@ -3,6 +3,7 @@
 
   Please edit settings.json, not settings.json.template
 */
+
 {
   // name your instance!
   "title": "IQUIDUS",
