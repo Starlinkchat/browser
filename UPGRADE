@@ -7,6 +7,7 @@ Note: All updates require the explorer to be restarted
   * display.navbar_light
 * Run peers script twice after initial upgrade to ensure country codes are added to mongo.
 
+
 1.7.2 -> 1.7.3
 * Reindex explorerdb (node --stack-size=15000 scripts/sync.js index reindex) required for Historical Address Balance
 * Add new settings to settings.json (see settings.json.template)
