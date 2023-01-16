@@ -1,6 +1,7 @@
 var mongoose = require('mongoose')
   , Schema = mongoose.Schema;
  
+
 var TxSchema = new Schema({
   txid: { type: String, lowercase: true, unique: true, index: true},
   vin: { type: Array, default: [] },
