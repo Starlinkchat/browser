@@ -3,6 +3,7 @@
 
   Please edit en.json, not en.json.template
 */
+
 {
     // menu items
     "menu_explorer": "Explorer",
