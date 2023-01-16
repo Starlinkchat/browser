@@ -1,5 +1,5 @@
 describe('market', function() {
-  var poloniex = require('../lib/poloniex');
+  var ccpoloniex = require('../lib/poloniex');
 
   describe('poloniex', function() {
     beforeEach(function() {
