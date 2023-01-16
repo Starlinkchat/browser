@@ -5,6 +5,7 @@ var mongoose = require('mongoose')
   , settings = require('../lib/settings');
 
 
+
 var COUNT = 5000; //number of blocks to index
 
 function exit() {  
