@@ -1,4 +1,4 @@
-Starlinkchat Browser - 1.0.0
+Starlinkchat Browser - 1.0.1
 ================
 
 An open source block explorer written in node.js.
